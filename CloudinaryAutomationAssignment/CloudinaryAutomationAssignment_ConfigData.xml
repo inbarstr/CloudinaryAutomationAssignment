@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<Url>https://staging.cloudinary.com/users/login</Url>
+	<User>
+		<userName>qa_automation_team+testAccount@cloudinary.com</userName>
+		<password>8Qfr%W6RqlPN</password>
+	</User>
+</configuration>
